@@ -113,7 +113,7 @@ body {
     font-size: 14px;
     line-height: 1.6em;
     font-weight: 400;
-    color: #6f6f6f;
+    color: #157915;
 }
 
 a:hover,
@@ -2123,7 +2123,7 @@ label.mt10.valid {
 }
 
 .home-two .scrolltotop:hover {
-    background: #ef494d none repeat scroll 0 0;
+    background: #157915 none repeat scroll 0 0;
     color: #ffffff;
 }
 
@@ -2145,7 +2145,7 @@ label.mt10.valid {
 }
 
 .home-two .is-sticky .mainmenu-area {
-    background: #ef494d none repeat scroll 0 0;
+    background: #157915 none repeat scroll 0 0;
 }
 
 .home-three .is-sticky .mainmenu-area {
@@ -2171,7 +2171,7 @@ label.mt10.valid {
 }
 
 .home-two .top-area .area-bg::before {
-    background: rgba(0, 0, 0, 0) url("img/home/red-bg.png") no-repeat scroll center center / cover;
+    background: #157915 no-repeat scroll center center / cover;
 }
 
 .home-three .top-area .area-bg::before {
@@ -2204,7 +2204,7 @@ label.mt10.valid {
 }
 
 .intro-area .area-bg::after {
-    background: #ef494d none repeat scroll 0 0;
+    background: #157915 none repeat scroll 0 0;
     opacity: 0.9;
 }
 
@@ -2294,7 +2294,7 @@ label.mt10.valid {
 }
 
 .video-promo-slider .owl-controls .owl-dots > div {
-    background: #ef494d none repeat scroll 0 0;
+    background: #157915 none repeat scroll 0 0;
     border-radius: 50%;
     bottom: -40px;
     display: inline-block;
@@ -2334,12 +2334,12 @@ label.mt10.valid {
 }
 
 .subscriber-area .subscriber-form button {
-    background: #ef494d;
+    background: #157915;
 }
 
 .subscriber-area .subscriber-form button:hover {
     background: #fff none repeat scroll 0 0;
-    color: #ef494d;
+    color: #157915;
 }
 
 /*--------------------------------
@@ -2350,7 +2350,7 @@ label.mt10.valid {
 .home-three .video-area-content .video-area-popup {
     -webkit-animation: 1s ease 0s normal none infinite running button_animation;
     animation: 1s ease 0s normal none infinite running button_animation;
-    background: #ef494d none repeat scroll 0 0;
+    background: #157915 none repeat scroll 0 0;
     border: 0 none;
     bottom: 0;
     font-size: 40px;
@@ -2365,7 +2365,7 @@ label.mt10.valid {
 
 .home-two .video-area-content .video-area-popup:hover {
     background: #ffffff none repeat scroll 0 0;
-    color: #ef494d;
+    color: #157915;
 }
 
 .home-three .video-area-content .video-area-popup {
@@ -2445,7 +2445,7 @@ label.mt10.valid {
 ----------------------------------*/
 
 .footer-area .area-bg::before {
-    background: rgba(0, 0, 0, 0) url("img/footer/footer-red-bg.jpg") no-repeat scroll center center / cover;
+    background: #157915  no-repeat scroll center center / cover;
 }
 
 .home-three .footer-area .area-bg::before {
@@ -2516,9 +2516,9 @@ label.mt10.valid {
 }
 
 .team-slider .slick-dots li.slick-active {
-    background: #ef494d;
-    -webkit-box-shadow: 0 0 0 5px #ef494d, 0 0 0 7px #ef494d;
-    box-shadow: 0 0 0 5px #ef494d, 0 0 0 7px #ef494d;
+    background: #157915;
+    -webkit-box-shadow: 0 0 0 5px #157915, 0 0 0 7px #157915;
+    box-shadow: 0 0 0 5px #157915, 0 0 0 7px #157915;
 }
 
 /*------------------------
@@ -2623,7 +2623,7 @@ label.mt10.valid {
 
 .home-two .qs-box-icon i,
 .home-three .qs-box-icon i {
-    border: 2px solid #ef494d;
+    border: 2px solid #157915;
     border-radius: 50%;
     padding-top: 12px;
 }
@@ -2633,8 +2633,8 @@ label.mt10.valid {
 }
 
 .home-two .qs-box:hover .qs-box-icon i {
-    background: #ef494d none repeat scroll 0 0;
-    border-color: #ef494d;
+    background: #157915 none repeat scroll 0 0;
+    border-color: #157915;
 }
 
 .home-three .qs-box:hover .qs-box-icon i {
@@ -2645,7 +2645,7 @@ label.mt10.valid {
 }
 
 .video-button {
-    background: #ef494d none repeat scroll 0 0;
+    background: #157915 none repeat scroll 0 0;
     border-radius: 3px;
     color: #fff;
     font-weight: 600;
@@ -2670,19 +2670,19 @@ label.mt10.valid {
 }
 
 .home-two .single-blog a:hover {
-    color: #ef494d;
+    color: #157915;
 }
 
 .home-two .contact-form button {
     background: transparent none repeat scroll 0 0;
     border: 2px solid;
     border-radius: 50px;
-    color: #ef494d;
+    color: #157915;
 }
 
 .home-two .contact-form button:hover {
-    background: #ef494d none repeat scroll 0 0;
-    border-color: #ef494d;
+    background: #157915 none repeat scroll 0 0;
+    border-color: #157915;
     color: #fff;
 }
 
